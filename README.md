@@ -73,7 +73,7 @@ Shows fluctuation in infection rates
 
 ## Model Figure
 
-![Simulation Interface](docs/model_figure.png)
+![Simulation Interface](/model_figure.png)
 
 ---
 
